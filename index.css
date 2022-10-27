@@ -338,10 +338,8 @@
     position: relative;
     bottom: 370px;
     left: 707px;
-    width: 536px;
-    height: 341px;
-    background: url(./component\ 30-1.png) 0% 0% no-repeat padding-box;
-    background-repeat:no-repeat ;
+    /* width: 536px;
+    height: 341px; */
 }
 @media (min-width:350px) and (max-width:500px){
     *{
